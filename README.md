@@ -13,6 +13,7 @@ Backend RESTful untuk aplikasi reservasi dan pembayaran kamar, dibangun dengan N
 - Express
 - Sequelize MySQL
 - Midtrans (payment gateway)
+- Postman DOCS https://documenter.getpostman.com/view/18559049/2sB3dWqRxL
 
 **Struktur proyek**
 - [app.js](app.js)
